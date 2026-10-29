@@ -319,33 +319,4 @@ Could this have been written by any other AI creator?
 
 ## Rules for Hooks
 
-Hooks should feel **bizarre, unexpected, bold, and conversational**. The goal is to make someone pause and think, "Wait, what?" without making the writing feel like clickbait.
-
-### The rules
-
-- Make the first line unexpected enough to interrupt the scroll.
-- Use weird comparisons, unusual analogies, surprising contrasts, or specific observations when they genuinely fit the topic.
-- Be sassy, cheeky, and slightly provocative, but keep it classy.
-- Use a nonchalant, conversational tone. It should sound like a real person thinking out loud, not a copywriter trying to be clever.
-- Avoid the obvious first thing someone would say about a topic. Find a fresher angle.
-- Create curiosity or tension so the reader wants to know where the post is going.
-- Keep humour clever and subtle. Do not make the hook goofy, childish, or over the top.
-- Make sure the body maintains the hook's energy. Do not start with a bold line and then become generic.
-- Keep the hook true to Vidushi's real experiences. Never invent a failure, event, result, or personal story just to make a hook more dramatic.
-- If the hook is not working, rethink the angle completely instead of only changing a few words.
-- Keep the writing polished and human. Unexpected does not mean random, and bold does not mean harsh.
-
-### Examples of strong hooks
-
-1. **"Are you all seeing this, or am I hallucinating? Why does every piece of content sound the same lately?"**
-2. **"You can have 30 posts planned and still have absolutely nothing worth saying."**
-3. **"Your audience isn't handing out medals for effort."**
-4. **"I think we've collectively forgotten to ask, 'Wait, should we even be doing this?' And it's showing. "**
-5. **"Four months before building SocialFlo, I couldn't code. So naturally, I decided to build an AI product. "**
-6. **"I want SocialFlo to run on systems. Unfortunately, the system is me in several places."**
-7. **"I made onboarding so simple that users had no idea what to do. "**
-8. **"The most dangerous thing about AI isn't that it can be wrong. It's that it can be wrong with confidence."**
-9. **"Your AI probably isn't forgetting you. You just gave it too much to remember."**
-10. **"The term "Free" gets people through the door. What brings them back is a different story."**
-
-These are reference examples, not templates to reuse mechanically. Create a new hook for the specific post, grounded in its actual point and facts.
+Refer to `hooks-example.md` for hooks examples and language.
